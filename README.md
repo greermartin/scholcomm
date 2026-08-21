@@ -1,5 +1,7 @@
 
-# Scripts to query OpenAlex and DOAJ APIs to get publication information by year for LUC and LUMC, APC data for returned journals, and first affiliated Loyola author.
+# Scripts to query OpenAlex and DOAJ APIs for publication information 
+
+Gets works published by year for LUC and LUMC, APC data for returned journals, and first affiliated Loyola author.
 
 ## works-query.py
 
